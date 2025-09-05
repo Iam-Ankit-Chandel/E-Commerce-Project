@@ -7,9 +7,7 @@ As we can see, credit cards dominate with a total payment value of 13 million, f
 
 
 ## 2.📈 2. Order & Review Counts by Payment Type (Top Center):
-"This bar chart shows the count of orders and review scores segmented by payment type.
-Again, credit cards lead with nearly 99K orders, indicating not only high value but high volume as well.
-The number of reviews aligns closely with the order volume, reinforcing that credit card users are the most active customers."
+"This bar chart shows the count of orders and review scores segmented by payment type. Again, credit cards lead with nearly 99K orders, indicating not only high value but high volume as well.The number of reviews aligns closely with the order volume, reinforcing that credit card users are the most active customers."
 <img width="3038" height="311" alt="image" src="https://github.com/user-attachments/assets/da057158-f40a-4850-8bdb-a7293bb33299" />
 
 ## 🧾 3. Filters (Top Right):
