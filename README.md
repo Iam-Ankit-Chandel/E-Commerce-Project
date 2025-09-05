@@ -33,6 +33,11 @@ This indicates that even with longer delivery times, customers are fairly satisf
 "This chart breaks down average delivery time by product category, and currently displays data for pet_shop, which also has a delivery time of 12.5 days.
 We can use filters to explore other categories and identify where delays are more prominent."
 
+## 6.Screenshots / Demos:
+
+Example: ![Dashboard Preview](<img width="2662" height="1271" alt="image" src="https://github.com/user-attachments/assets/a129578e-4620-4823-a03e-f05937194edd" />
+)
+
 
 
 
