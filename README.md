@@ -3,7 +3,7 @@
 ## 1. Payment Summary by Type (Top Left):
 "This chart highlights the total and average payment values by different payment types.
 As we can see, credit cards dominate with a total payment value of 13 million, followed by boleto at 3 million.
-<img width="2295" height="212" alt="image" src="https://github.com/user-attachments/assets/e8223d3b-2c30-45ac-8178-4cf1f0392090" />
+
 
 
 ## 2.📈 2. Order & Review Counts by Payment Type (Top Center):
