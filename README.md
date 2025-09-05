@@ -35,8 +35,7 @@ We can use filters to explore other categories and identify where delays are mor
 
 ## 6.Screenshots / Demos:
 
-Example: ![Dashboard Preview](<img width="2662" height="1271" alt="image" src="https://github.com/user-attachments/assets/a129578e-4620-4823-a03e-f05937194edd" />
-)
+Example: ![Dashboard Preview](https://github.com/Iam-Ankit-Chandel/E-Commerce-Project/blob/main/E-Commerce%20Project%20Snapshot%20Tableau.png)
 
 
 
